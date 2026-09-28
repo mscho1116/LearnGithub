@@ -5,3 +5,5 @@ this is now on test-branch, hello there!
 wooo
 
 this is on github messing with the line and making another merge conflict 
+
+here's commit #3 on github more MERGE CONFLICTS!!!!!!!!
